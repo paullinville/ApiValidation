@@ -1,5 +1,5 @@
 ﻿using FFP.CoreUtilities;
-using FFP.Validations;
+using Validations;
 using System;
 using System.Collections.Generic;
 namespace ApiTestValidationFilter.Models

@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTestValidationFilter", "ApiTestValidationFilter.csproj", "{8AA39E14-4EB7-4352-AAEF-6EA2264ABC35}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFP.Interfaces", "..\FFP.Interfaces\FFP.Interfaces.csproj", "{4E63F941-5F02-43BA-8FA6-BCF2C14F1CE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\FFP.Interfaces\Interfaces.csproj", "{4E63F941-5F02-43BA-8FA6-BCF2C14F1CE8}"
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "FFP.CoreUtilities", "..\FFP.CoreUtilities\FFP.CoreUtilities.vbproj", "{80F76CF6-9681-4897-BE27-F6E68F390BE7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFP.Validation", "..\FFP.Validation\FFP.Validation.csproj", "{2C33BEEC-AFE2-47B3-9497-22BEAC69FF36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validation", "..\FFP.Validation\Validation.csproj", "{2C33BEEC-AFE2-47B3-9497-22BEAC69FF36}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationRules_Tests", "..\FFP.Validation\ValidationRules_Tests\ValidationRules_Tests.csproj", "{5825B4A3-C94E-420E-A7A4-47CE3E0FA34A}"
 EndProject

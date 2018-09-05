@@ -37,7 +37,7 @@ namespace WebApplication1
                 options.Filters.Add(typeof(ApiTestValidationFilter.Filters.ValidationActionFilter));
             }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            FFP.Validations.ValidationPackages.AddValidationPackages(new [] { new ApiTestValidationFilter.ValidationRules.ValidationPackage1()});
+            Validations.ValidationPackages.AddValidationPackages(new [] { new ApiTestValidationFilter.ValidationRules.ValidationPackage1()});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
